@@ -50,3 +50,39 @@ jee adv
 |grand total| 376 |500|
 
 
+ # *Summary* 
+
+Dhruvjot Singh 
+
+*portfolio*
+
+
+
+Highly motivated and experienced [profession/developer/designer] with a strong passion for building innovative and effective solutions. Skilled in programming, with a proven track record of delivering high-quality results. Dedicated to staying up-to-date with industry trends and best practices, and committed to continuous learning and improvement.
+
+*Key Skills:*
+
+- MMicrosoft all 
+- corel draw
+- Adobe photoshop 
+- after effect
+- HTML
+- CSS
+- Javascript
+- backend language
+- database management 
+
+*Expertise:*
+
+- ggraphics designer
+- programming languages
+- drawing 
+
+*Personal Qualities:*
+
+- Strong problem-solving skills
+- reseaching and learning
+- Detail-oriented and organized
+- Passionate about learning and growth
+
+
