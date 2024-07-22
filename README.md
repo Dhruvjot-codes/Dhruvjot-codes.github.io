@@ -1,8 +1,10 @@
 # Dhruvjot-codes
 
-# Profile:-Dhruvjot Singh 
+# Profile:-Dhruvjot
 
-![Adding](https://github.com/Dhruvjot-codes/Dhruvjot-codes.github.io-/blob/bf4a04cf9733a6aba29276018d9b05c9394b2ad6/20231020_065735.jpg)
+![my image](20231020_065735.jpg)
+
+
 
 
 
