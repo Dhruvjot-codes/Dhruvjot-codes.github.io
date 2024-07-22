@@ -91,3 +91,9 @@ Highly motivated and experienced [profession/developer/designer] with a strong p
 
 excel certification 
 
+# Blog post 
+(will be added soon)
+
+__Contact__ : 9780599488
+__Email__ : *dhruvjotsingh21@gmail.com*
+
