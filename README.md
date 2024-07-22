@@ -5,24 +5,48 @@
 ![Adding](https://github.com/Dhruvjot-codes/Dhruvjot-codes.github.io-/blob/bf4a04cf9733a6aba29276018d9b05c9394b2ad6/20231020_065735.jpg)
 
 
-Personal information 
 
-Name: Dhruvjot Singh 
+"Welcome! I'm Dhruvjot Singh  a dedicated and experienced developer with a talent for creating effective and elegant solutions. With a strong background in computer science and a commitment to excellence, I build web applications that are both functional and beautiful. Explore my portfolio to see my latest work and let's connect to build something amazing together!"
 
-Education : Btech IT ( Information technology)  pursuing 
 
-College:GNDEC (Guru Nanak Dev Engineering college)
 
-location: India,Punjab,ludhiana 
+# Personal information 
 
-pin code :141003
+---  ---  ---
 
-class 12 :school of eminence govt school 
-class 10 :amrit indo Canadian academy 
+__Name:__ Dhruvjot Singh 
 
-work at : part time at Dmart currently doing
+__Education :__ Btech IT ( Information technology)  pursuing 
 
-hobbies: to explore surrounding and learn more and more
+__College:__ GNDEC (Guru Nanak Dev Engineering college)
 
-competitive exam :Jee main cleared
+__location:__ India,Punjab,ludhiana 
+
+__pin code:__ 141003
+
+__class 12 :__ school of eminence govt school 
+__class 10 :__ amrit indo Canadian academy 
+
+__work at :__ part time at Dmart currently doing
+
+__hobbies:__ to explore surrounding and learn more and more
+
+__competitive exam :__ Jee main cleared
 jee adv 
+
+
+# 12 Mark's details 
+
+|subject|  Mark's obtained | total|
+|----| ----------|----|
+|English |84 |100|
+|punjabi| 67 |100|
+|physics |76 |100|
+|Chemistry |87 |100|
+|mathematics |62 |100|
+|environmental educ |46| 50|
+|computer |78 |100|
+|                 |
+|grand total| 376 |500|
+
+
