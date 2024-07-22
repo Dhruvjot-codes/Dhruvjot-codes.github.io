@@ -86,6 +86,8 @@ Highly motivated and experienced [profession/developer/designer] with a strong p
 - Passionate about learning and growth
 
 # Achievements
+![image](Dhruvjot_Singh20240718-73-1q11xp5.jpg)
+
 
 excel certification 
 
