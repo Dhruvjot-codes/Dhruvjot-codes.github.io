@@ -99,6 +99,14 @@ Here's a 100-word write-up:
 # Blog post 
 (will be added soon)
 
+# Social media 
+
+Facebook 
+
+Instagram 
+
+Linked in 
+
 __Contact__ : 9780599488
 __Email__ : *dhruvjotsingh21@gmail.com*
 
