@@ -97,7 +97,7 @@ Here's a 100-word write-up:
 "I'm thrilled to have completed the Excel course from Great Learning and received certification! This achievement demonstrates my proficiency in using Excel to analyze data, create visualizations, and drive business insights. Through this course, I gained hands-on experience with advanced formulas, pivot tables, and charting techniques. I'm now equipped to leverage Excel's powerful tools to drive decision-making and solve real-world problems. This certification showcases my dedication to upskilling and my ability to master industry-relevant skills. I'm excited to apply my newfound expertise to drive success in my professional endeavors!"
 
 # Blog post 
-(will be added soon)
+[blog post](https://github.com/Dhruvjot-codes/blog-post-/blob/9bfc34fb75a8db1f63228233e1d571c9cfe3fd94/README.md)
 
 # Social media 
 
